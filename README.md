@@ -1,5 +1,3 @@
-Author: Zhuo Zeng(ucabz30@ucl.ac.uk), Bowen Jiang(zczlbj0@ucl.ac.uk), Yuxuan Dong(ucabyd6@ucl.ac.uk)
-
 Description: This package implements the code for COMP0129 cw3 from team 8
 
 ## Pre-Requisites
@@ -54,13 +52,5 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 Copyright (C) 2019-2022 Dimitrios Kanoulas except where specified
 
-## Estimate time for each task
-Task 1: 80 hours
-Task 2: 80 hours
-Task 3: 50 hours
 
-## Work seperation around members
-Zhuo Zeng: 33.3%
-Bowen Jiang: 33.3%
-Yuxuan Dong: 33.3%
 
